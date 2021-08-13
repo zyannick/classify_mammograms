@@ -1,6 +1,0 @@
-model_checkpoint_path: "resnet.model-4640"
-all_model_checkpoint_paths: "resnet.model-4000"
-all_model_checkpoint_paths: "resnet.model-4160"
-all_model_checkpoint_paths: "resnet.model-4320"
-all_model_checkpoint_paths: "resnet.model-4480"
-all_model_checkpoint_paths: "resnet.model-4640"
