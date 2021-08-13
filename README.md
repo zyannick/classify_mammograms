@@ -21,6 +21,7 @@ conda activate tf1
 ## How to run
 
 When you launch the code, the dataset is partitionned between test and train through the file 'data_helpers.py'. 
+Your files must be in the directory 'Datasets'.
 
 ### Train
 
